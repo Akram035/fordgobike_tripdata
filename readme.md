@@ -1,6 +1,4 @@
-# (Dataset Exploration Title)
-## by (your name here)
-
+# (Bay Wheels's trip data exploration)
 
 ## Dataset
 
@@ -12,7 +10,7 @@
 > 1-	The durations for most rides are between 2 and 100 minutes with some outliers.
 2-	Weekdays have more rides than weekends
 3-	Weekends have rides with longer durations than the weekdays
-4-	October has the greatest number of rides while June has the lowest 
+4-	October has the greatest number of rides while June has the lowest
 5-	Subscribers have far more rides than Customers, but Customers have longer durations
 6-	'San Francisco Ferry Building (Harry Bridges Plaza)' is the most used starting station
 
